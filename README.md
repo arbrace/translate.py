@@ -1,4 +1,7 @@
 # translate.py
+
+Yandex.translate is the core dependency - big credit to the devs on that. 
+
 Translate a list from csv. Lots of issues with other APIs, this works. 
 
 Get an API Key from:
