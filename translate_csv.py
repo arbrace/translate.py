@@ -5,7 +5,7 @@ translate = YandexTranslate('<YandexAPIKey>')
 print('Languages:', translate.langs)
 
 # read your csv, single col to be translated
-with open('C:\\Users\\aaron.brace\Desktop\\qs3.csv', 'r') as f:
+with open('file.csv', 'r') as f:
   reader = csv.reader(f)
   your_list = list(reader)
 
